@@ -1,0 +1,19 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.jumbotron {
+	background-color: gray;
+}
+.footer {
+	background-color: #D1C4E9;
+}
+.row-content {
+	padding: 50px 0 50px 0;
+	min-height: 300px;
+	border-bottom: 3px ridge;
+}
